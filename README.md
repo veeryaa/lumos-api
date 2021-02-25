@@ -1,1 +1,1 @@
-# LUMOS REST - API 
+# LUMOS REST API 
